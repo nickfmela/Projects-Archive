@@ -117,7 +117,7 @@ body {
 
 .hero {
     height: 100vh;
-    background-image: url('./images/GRD_IMG/SABRINA/GROUP_IMG002.jpg');
+    background-image: url('GROUP_IMG002.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
